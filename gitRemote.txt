@@ -1,0 +1,8 @@
+1 gitbhub account
+2 Empty repo
+3 Local system 
+     git config --global user.name "abhishek1711mmmut"
+     git config --global user.email "abhishek1711mmmut@gmail.com"
+4 Git push
+     username --> abhishek1711mmmut
+     pass -->  find it
